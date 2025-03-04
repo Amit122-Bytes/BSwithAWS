@@ -1,0 +1,5 @@
+MobileCapabilites/MobileCapabilities.class
+Common/CommonCapabilities.class
+DeviceWorkshop/DeviceManager.class
+DeviceWorkshop/DevicesAndBrowsers.class
+DesktopCapabilties/DesktopCapabilities.class

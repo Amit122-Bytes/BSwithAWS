@@ -1,0 +1,5 @@
+TestCases/AmazonTest.class
+TestData/TestData.class
+PageObjects/AmazonPageObjects.class
+TestCases/SampleTest.class
+TestCases/BaseTest.class

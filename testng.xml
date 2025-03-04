@@ -4,8 +4,8 @@
     <parameter name="runType" value="desktop" />
     <test name="Dynamic Test">
         <classes>
-           <!--<class name="TestCases.SampleTest" />-->
-            <class name="TestCases.AmazonTest"/>
+           <class name="TestCases.SampleTest" />
+            <!--<class name="TestCases.AmazonTest"/>-->
         </classes>
     </test>
 </suite>

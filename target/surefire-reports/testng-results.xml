@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-04T18:35:07 IST" name="Dynamic Test Suite" finished-at="2025-03-04T18:35:17 IST" duration-ms="9549">
+    <groups>
+    </groups>
+    <test started-at="2025-03-04T18:35:07 IST" name="Dynamic Test" finished-at="2025-03-04T18:35:17 IST" duration-ms="9549">
+      <class name="TestCases.SampleTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:TestCases.SampleTest@4387b79e]" started-at="2025-03-04T18:35:07 IST" name="setUp" finished-at="2025-03-04T18:35:13 IST" duration-ms="6122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatePageTitle()[pri:0, instance:TestCases.SampleTest@4387b79e]" started-at="2025-03-04T18:35:13 IST" name="validatePageTitle" finished-at="2025-03-04T18:35:15 IST" duration-ms="1980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleTest@4387b79e]" started-at="2025-03-04T18:35:15 IST" name="tearDown" finished-at="2025-03-04T18:35:17 IST" duration-ms="1422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCases.SampleTest -->
+    </test> <!-- Dynamic Test -->
+  </suite> <!-- Dynamic Test Suite -->
+</testng-results>

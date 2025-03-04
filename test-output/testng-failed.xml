@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Dynamic Test Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="runType" value="desktop"/>
+  <test thread-count="5" name="Dynamic Test(failed)">
+    <classes>
+      <class name="TestCases.AmazonTest">
+        <methods>
+          <include name="amazonEndToEndTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestCases.AmazonTest -->
+    </classes>
+  </test> <!-- Dynamic Test(failed) -->
+</suite> <!-- Failed suite [Dynamic Test Suite] -->

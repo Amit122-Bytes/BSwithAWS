@@ -1,0 +1,1 @@
+1. Capability Generator:- https://www.browserstack.com/docs/automate/capabilities
